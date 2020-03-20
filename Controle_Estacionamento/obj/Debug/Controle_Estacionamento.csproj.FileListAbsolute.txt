@@ -1,0 +1,10 @@
+C:\Users\franc\source\repos\Controle_Estacionamento\bin\Debug\Controle_Estacionamento.exe.config
+C:\Users\franc\source\repos\Controle_Estacionamento\bin\Debug\Controle_Estacionamento.exe
+C:\Users\franc\source\repos\Controle_Estacionamento\bin\Debug\Controle_Estacionamento.pdb
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.csprojAssemblyReference.cache
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.Form1.resources
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.Properties.Resources.resources
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.exe
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.pdb
+C:\Users\franc\source\repos\Controle_Estacionamento\obj\Debug\Controle_Estacionamento.Vaga.resources
